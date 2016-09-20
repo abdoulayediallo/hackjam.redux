@@ -1,0 +1,27 @@
+{
+  "name": "hackjam-redux",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "hackages watch",
+    "live": "hackages live",
+    "start": "npm-run-all --parallel watch live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackages/hackjam.redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackages/hackjam.redux/issues"
+  },
+  "homepage": "https://github.com/hackages/hackjam.redux#readme",
+  "devDependencies": {
+    "hackages": "0.0.8",
+    "npm-run-all": "^3.1.0"
+  }
+}

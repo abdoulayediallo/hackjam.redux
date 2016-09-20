@@ -1,0 +1,17 @@
+-- Getting started with Redux
+
+- install redux with npm: 'npm i redux -S'
+
+- import 'createStore' from 'redux'
+
+- create a reducer 'changeCategories': function that takes a 'state' and an 'action' properties
+  -- action should always contain a property 'type'
+
+- create a 'store' with 'createStore' by passing the reducer
+
+- Log the store in your console and investigate the options: there are 3 functions that are interesting for us
+ -- getState
+ -- dispatch
+ -- subscribe
+
+
