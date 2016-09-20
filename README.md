@@ -2,13 +2,12 @@
 
 Join [![Gitter](https://badges.gitter.im/hackages/hackjam-react.svg)](https://gitter.im/hackages/hackjam-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Be nice to people, share love(code) here: [Codeshare](https://codeshare.io/SjNAK)
 
 ## Goal
-The goal of this exercise is to learn how to think in React. There are thousands of tutorials online but there's no better way to learn than hacking it yourself.
+The goal of this exercise is to learn how to use Redux with React. There are thousands of tutorials online but there's no better way to learn than hacking it yourself.
 
 ## Requirements
-You need to be confortable writing JavaScript (ES6: Module system, class, destructuring assignment).
+You need to be comfortable writing JavaScript (ES6: Module system, class, destructuring assignment).
 You need to have `node`and `npm`installed in your computer.
 
 ## Technologies
@@ -42,7 +41,4 @@ An example of the application is available [here](http://hackjam.hackages.io/)
 - Developer tools for React
 - Data management with Relay
 
-## 
-
-
-
+##
